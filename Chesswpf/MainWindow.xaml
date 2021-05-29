@@ -52,7 +52,7 @@
         <Button Grid.Column="6" Grid.Row="2" Content="" Background="White"/>
         <Button Grid.Column="7" Grid.Row="2" Content="" Background="Black"/>
         <Button Grid.Column="0" Grid.Row="2" Content="" Background="White"/>
-        <Button Grid.Column="1" Grid.Row="3" Content="" Background="White"/>
+        <Button Grid.Row="3" Content="" Background="White" Grid.Column="1"/>
         <Button Grid.Column="2" Grid.Row="3" Content="" Background="Black"/>
         <Button Grid.Column="3" Grid.Row="3" Content="" Background="White"/>
         <Button Grid.Column="4" Grid.Row="3" Content="" Background="Black"/>
